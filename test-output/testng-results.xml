@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="10727" started-at="2021-03-24T10:08:27Z" finished-at="2021-03-24T10:08:38Z">
+  <suite name="Suite" duration-ms="31436" started-at="2021-03-29T08:48:12Z" finished-at="2021-03-29T08:48:44Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="10727" started-at="2021-03-24T10:08:27Z" finished-at="2021-03-24T10:08:38Z">
+    <test name="Test" duration-ms="31436" started-at="2021-03-29T08:48:12Z" finished-at="2021-03-29T08:48:44Z">
       <class name="TestScrepts.Tc_01">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:TestScrepts.Tc_01@2b98378d]" name="openBrowser" is-config="true" duration-ms="8251" started-at="2021-03-24T15:38:27Z" finished-at="2021-03-24T15:38:35Z">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:TestScrepts.Tc_01@4b9e13df]" name="openBrowser" is-config="true" duration-ms="28665" started-at="2021-03-29T14:18:12Z" finished-at="2021-03-29T14:18:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="PASS" signature="login()[pri:0, instance:TestScrepts.Tc_01@2b98378d]" name="login" duration-ms="565" started-at="2021-03-24T15:38:35Z" finished-at="2021-03-24T15:38:36Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:TestScrepts.Tc_01@4b9e13df]" name="login" duration-ms="1179" started-at="2021-03-29T14:18:41Z" finished-at="2021-03-29T14:18:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestScrepts.Tc_01@2b98378d]" name="closeBrowser" is-config="true" duration-ms="1905" started-at="2021-03-24T15:38:36Z" finished-at="2021-03-24T15:38:38Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestScrepts.Tc_01@4b9e13df]" name="closeBrowser" is-config="true" duration-ms="1582" started-at="2021-03-29T14:18:42Z" finished-at="2021-03-29T14:18:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
